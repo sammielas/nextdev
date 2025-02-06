@@ -139,7 +139,7 @@
                 <div class="features">
                     <div class="feature-card">
                         <h3>Modern Design</h3>
-                        <p>Clean and beautiful interfaces that delight users</p>
+                        <p>Clean and awesome designs that delight users</p>
                     </div>
                     <div class="feature-card">
                         <h3>Responsive</h3>
