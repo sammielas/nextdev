@@ -32,7 +32,7 @@
     
             h1 {
                 font-size: 2.5rem;
-                color: #1a1a1a;
+                color: #1a1b1a;
                 margin-bottom: 1.5rem;
                 text-align: center;
             }
