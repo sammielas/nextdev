@@ -2,7 +2,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Beautiful Landing Page</title>
+        <title>Next Dev Resources</title>
         <style>
             * {
                 margin: 0;
@@ -128,8 +128,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <h1>Welcome to Your Beautiful App</h1>
-                <p>This is a stunning starting point for your next project. Built with simplicity and elegance.</p>
+                <h1>Welcome to NextDevOps</h1>
+                <p>This is a stunning starting point for your next devops project. Built with simplicity and elegance.</p>
                 
                 <div class="button-group">
                     <a href="#" class="btn primary">Get Started</a>
